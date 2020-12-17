@@ -1,0 +1,1 @@
+casos de teste confirmados até o 21 (excluindo os apontados no description.txt)

@@ -1,0 +1,29 @@
+Casos de teste:
+01: exemplo do enunciado 🤙️
+02: apagar a lista e começar uma nova 🤙️
+03: imprimir uma lista vazia 🤙️
+04: tentar imprimir uma lista grande 🤙️
+05: checar se a lista está cheia 🤙️
+06: checar se a lista está vazia 🤙️
+07: inserir um item numa posição que não existe na lista (inserção não deve ser feita) 🤙️
+08: inserir um item na posição 0 (inserção não deve ser feita) 🤙️
+09: inserir um item na última posição da lista 🤙️
+10: inserir um item no meio da lista 🤙️
+11: inserir um item que já está na lista <--- (cortado - deve-se considerar que isso não será feito) 👎️
+12: remover um item que não está na lista 🤙️
+13: operações utilizando inputs inválidos (float em tudo) <--- deve trucar o float em um int 🤙️
+14: remover um item que está na lista 🤙️
+15: remover todos os itens de um por um 🤙️
+16: buscar um item que não está na lista 🤙️
+18: buscar o primeiro item da lista 🤙️
+19: buscar o último item da lista 🤙️
+20: buscar um item qualquer no meio da lista 🤙️
+21: checar o tamanho de uma lista vazia 🤙️
+22: operações com listas um pouco maiores ~ 350 elementos (inserir, printar, tamanho, buscar, apagar) 🤙️
+23: apagar uma lista vazia 🤙️
+24: inserir um filme repetido (mesmo nome e mesma chave) <--- (cortado - deve-se considerar que isso não será feito) 👎️
+25: inserir um filme com apenas nome repetido <--- (cortado - deve-se considerar que isso não será feito) 👎️
+26: inserir um filme com apenas chave repetida <--- (cortado - deve-se considerar que isso não será feito) 👎️
+27: inserir um filme cujo nome possui mais de uma palavra separadas por espaços <--- (cortado - deve-se considerar que isso não será feito) 👎️
+28: inserir um filme cujo nome possui mais de uma palavra separadas por hífens ou underscores (e um emoji porque why not) 🤙️
+29: operações com listas grandes ~ 50000 elementos (inserir, printar, tamanho, buscar, apagar) + nomes com caracteres especiais 🤙️

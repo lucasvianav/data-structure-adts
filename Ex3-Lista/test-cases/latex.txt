@@ -1,0 +1,928 @@
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{01.in}
+&
+\textbf{01.out}\\
+3 4
+&1\\
+135 Titanic 1
+&1\\
+55 Aladdin 1
+&1\\
+689 Avatar 1
+&1\\
+86 Matrix 1
+&86 Matrix\\
+6
+&689 Avatar\\
+5 2
+&55 Aladdin\\
+689
+&135 Titanic\\
+13
+&2\\
+4 1
+&-32000\\
+86
+&1\\
+7
+&3\\
+6
+&689 Avatar\\
+0
+&55 Aladdin\\
+&135 Titanic\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{02.in}
+&
+\textbf{02.out}\\
+3 4
+&1\\
+135 Titanic 1
+&1\\
+55 Aladdin 1
+&1\\
+689 Avatar 1
+&1\\
+86 Matrix 1
+&86 Matrix\\
+6
+&689 Avatar\\
+2
+&55 Aladdin\\
+6
+&135 Titanic\\
+3 3
+&1\\
+65 Gravity 1
+&1\\
+98 Irishman 1
+&1\\
+77 Hackers 1
+&1\\
+6
+&77 Hackers\\
+0
+&98 Irishman\\
+&65 Gravity\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{03.in}
+&
+\textbf{03.out}\\
+3 10
+&1\\
+2301 clAgPd 1
+&1\\
+4478 JkNLLrsWlSKyGYiN 2
+&1\\
+246 vRfuWIBnrzMAXn 3
+&1\\
+1073 tbdAffKbobs 4
+&1\\
+1846 HbiXFuNWA 5
+&1\\
+4760 UbMxOuiiRZPqbrQuQG 6
+&1\\
+2370 XGqbSyxKwHcINk 7
+&1\\
+3774 QmWad 8
+&1\\
+4491 rpHIUlvYkF 9
+&1\\
+196 uCIPnAgBhvMdoQ 10
+&10\\
+7
+&0\\
+9
+&1\\
+2
+&0\\
+7
+&1\\
+9
+&1\\
+2\\
+0\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{04.in}
+&
+\textbf{04.out}\\
+3 4
+&1\\
+135 Titanic 1
+&1\\
+55 Aladdin 1
+&1\\
+689 Avatar 1
+&1\\
+86 Matrix 1
+&86 Matrix\\
+6
+&689 Avatar\\
+2
+&55 Aladdin\\
+6
+&135 Titanic\\
+0
+&1\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{05.in}
+&
+\textbf{05.out}\\
+8
+&0\\
+3 20
+&1\\
+135 Titanic 1
+&1\\
+55 Aladdin 1
+&1\\
+689 Avatar 1
+&1\\
+86 Matrix 1
+&1\\
+65 Gravity 1
+&1\\
+98 Irishman 1
+&1\\
+77 Hackers 1
+&1\\
+339 Spiderverse 1
+&1\\
+243 REC 1
+&1\\
+76 Clue 1
+&1\\
+356 Godfather 1
+&1\\
+45 Drive 1
+&1\\
+61 Shame 1
+&1\\
+399 Millennium 1
+&1\\
+294 Parasite 1
+&1\\
+412 Inception 1
+&1\\
+259 Midsommar 1
+&1\\
+331 Tangled 1
+&1\\
+289 Persona 1
+&1\\
+380 Suspiria 1
+&0\\
+8
+&380 Suspiria\\
+6
+&289 Persona\\
+0
+&331 Tangled\\
+&259 Midsommar\\
+&412 Inception\\
+&294 Parasite\\
+&399 Millennium\\
+&61 Shame\\
+&45 Drive\\
+&356 Godfather\\
+&76 Clue\\
+&243 REC\\
+&339 Spiderverse\\
+&77 Hackers\\
+&98 Irishman\\
+&65 Gravity\\
+&86 Matrix\\
+&689 Avatar\\
+&55 Aladdin\\
+&135 Titanic\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{06.in}
+&
+\textbf{06.out}\\
+9
+&1\\
+3 20
+&1\\
+135 Titanic 1
+&1\\
+55 Aladdin 1
+&1\\
+689 Avatar 1
+&1\\
+86 Matrix 1
+&1\\
+65 Gravity 1
+&1\\
+98 Irishman 1
+&1\\
+77 Hackers 1
+&1\\
+339 Spiderverse 1
+&1\\
+243 REC 1
+&1\\
+76 Clue 1
+&1\\
+356 Godfather 1
+&1\\
+45 Drive 1
+&1\\
+61 Shame 1
+&1\\
+399 Millennium 1
+&1\\
+294 Parasite 1
+&1\\
+412 Inception 1
+&1\\
+259 Midsommar 1
+&1\\
+331 Tangled 1
+&1\\
+289 Persona 1
+&1\\
+380 Suspiria 1
+&0\\
+9
+&380 Suspiria\\
+6
+&289 Persona\\
+2
+&331 Tangled\\
+6
+&259 Midsommar\\
+9
+&412 Inception\\
+8
+&294 Parasite\\
+0
+&399 Millennium\\
+&61 Shame\\
+&45 Drive\\
+&356 Godfather\\
+&76 Clue\\
+&243 REC\\
+&339 Spiderverse\\
+&77 Hackers\\
+&98 Irishman\\
+&65 Gravity\\
+&86 Matrix\\
+&689 Avatar\\
+&55 Aladdin\\
+&135 Titanic\\
+&1\\
+&1\\
+&0\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{07.in}
+&
+\textbf{07.out}\\
+7
+&0\\
+0\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{08.in}
+&
+\textbf{08.out}\\
+3 6
+&0\\
+65 Gravity 2
+&1\\
+98 Irishman 1
+&0\\
+77 Hackers 0
+&0\\
+77 Hackers -1
+&1\\
+77 Hackers 2
+&0\\
+339 Spiderverse 7
+&98 Irishman\\
+6
+&77 Hackers\\
+5 4
+&-32000\\
+65
+&1\\
+98
+&2\\
+77
+&-32000\\
+339\\
+0\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{09.in}
+&
+\textbf{09.out}\\
+3 4
+&1\\
+65 Gravity 1
+&1\\
+98 Irishman 2
+&1\\
+77 Hackers 2
+&1\\
+339 Spiderverse 4
+&65 Gravity\\
+6
+&77 Hackers\\
+0
+&98 Irishman\\
+&339 Spiderverse\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{10.in}
+&
+\textbf{10.out}\\
+3 4
+&1\\
+65 Gravity 1
+&1\\
+98 Irishman 2
+&1\\
+77 Hackers 2
+&1\\
+339 Spiderverse 3
+&65 Gravity\\
+6
+&77 Hackers\\
+0
+&339 Spiderverse\\
+&98 Irishman\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{11.in}
+&
+\textbf{11.out}\\
+3 20
+&1\\
+135 Titanic 1
+&1\\
+55 Aladdin 1
+&1\\
+689 Avatar1 1
+&1\\
+86 Matrix-2 1
+&1\\
+65 Gravity 1
+&1\\
+98 The_Irishman 1
+&1\\
+77 Hackers🤙️ 1
+&1\\
+339 Spider-man 1
+&1\\
+243 REC 1
+&1\\
+76 Clue 1
+&1\\
+356 The_Godfather-II 1
+&1\\
+45 Baby-Driver 1
+&1\\
+61 Shame 1
+&1\\
+399 Millennium 1
+&1\\
+294 Parasite 1
+&1\\
+412 Inception 1
+&1\\
+259 Midsommar 1
+&1\\
+331 Tangled 1
+&1\\
+289 Persona 1
+&1\\
+380 Suspiria 1
+&380 Suspiria\\
+6
+&289 Persona\\
+0
+&331 Tangled\\
+&259 Midsommar\\
+&412 Inception\\
+&294 Parasite\\
+&399 Millennium\\
+&61 Shame\\
+&45 Baby-Driver\\
+&356 The_Godfather-II\\
+&76 Clue\\
+&243 REC\\
+&339 Spider-man\\
+&77 Hackers🤙️\\
+&98 The_Irishman\\
+&65 Gravity\\
+&86 Matrix-2\\
+&689 Avatar1\\
+&55 Aladdin\\
+&135 Titanic\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{12.in}
+&
+\textbf{12.out}\\
+3 4
+&1\\
+65 Gravity 1
+&1\\
+98 Irishman 2
+&1\\
+77 Hackers 2
+&1\\
+339 Spiderverse 3
+&65 Gravity\\
+6
+&77 Hackers\\
+4 3
+&339 Spiderverse\\
+65
+&98 Irishman\\
+65
+&1\\
+12
+&0\\
+0
+&0\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{13.in}
+&
+\textbf{13.out}\\
+3 4
+&1\\
+65 Gravity 1
+&1\\
+98 Irishman 2
+&1\\
+77 Hackers 2
+&1\\
+339 Spiderverse 3
+&65 Gravity\\
+6
+&77 Hackers\\
+4 3
+&339 Spiderverse\\
+65
+&98 Irishman\\
+98
+&1\\
+468432
+&1\\
+5 1
+&0\\
+65
+&-32000\\
+6
+&77 Hackers\\
+0
+&339 Spiderverse\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{14.in}
+&
+\textbf{14.out}\\
+3 20
+&1\\
+135 Titanic 1
+&1\\
+55 Aladdin 1
+&1\\
+689 Avatar 1
+&1\\
+86 Matrix 1
+&1\\
+65 Gravity 1
+&1\\
+98 Irishman 1
+&1\\
+77 Hackers 1
+&1\\
+339 Spiderverse 1
+&1\\
+243 REC 1
+&1\\
+76 Clue 1
+&1\\
+356 Godfather 1
+&1\\
+45 Drive 1
+&1\\
+61 Shame 1
+&1\\
+399 Millennium 1
+&1\\
+294 Parasite 1
+&1\\
+412 Inception 1
+&1\\
+259 Midsommar 1
+&1\\
+331 Tangled 1
+&1\\
+289 Persona 1
+&1\\
+380 Suspiria 1
+&380 Suspiria\\
+6
+&289 Persona\\
+7
+&331 Tangled\\
+4 10
+&259 Midsommar\\
+135
+&412 Inception\\
+55
+&294 Parasite\\
+689
+&399 Millennium\\
+86
+&61 Shame\\
+65
+&45 Drive\\
+98
+&356 Godfather\\
+77
+&76 Clue\\
+339
+&243 REC\\
+243
+&339 Spiderverse\\
+76
+&77 Hackers\\
+7
+&98 Irishman\\
+4 10
+&65 Gravity\\
+356
+&86 Matrix\\
+45
+&689 Avatar\\
+61
+&55 Aladdin\\
+399
+&135 Titanic\\
+294
+&20\\
+412
+&1\\
+259
+&1\\
+331
+&1\\
+289
+&1\\
+380
+&1\\
+6
+&1\\
+7
+&1\\
+3 1
+&1\\
+135 Titanic 1
+&1\\
+6
+&1\\
+7
+&10\\
+0
+&1\\
+&1\\
+&1\\
+&1\\
+&1\\
+&1\\
+&1\\
+&1\\
+&1\\
+&1\\
+&0\\
+&1\\
+&135 Titanic\\
+&1\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{15.in}
+&
+\textbf{15.out}\\
+3 4
+&1\\
+65 Gravity 1
+&1\\
+98 Irishman 2
+&1\\
+77 Hackers 2
+&1\\
+339 Spiderverse 3
+&65 Gravity\\
+6
+&77 Hackers\\
+4 2
+&339 Spiderverse\\
+65
+&98 Irishman\\
+98
+&1\\
+5 4
+&1\\
+65
+&-32000\\
+98
+&-32000\\
+4745
+&-32000\\
+77
+&1\\
+6
+&77 Hackers\\
+2
+&339 Spiderverse\\
+7
+&1\\
+5 4
+&0\\
+65
+&-32000\\
+98
+&-32000\\
+4745
+&-32000\\
+77
+&-32000\\
+3 1
+&1\\
+65 Gravity 1
+&1\\
+5 1\\
+65\\
+0\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{16.in}
+&
+\textbf{16.out}\\
+3 4
+&1\\
+65 Gravity 1
+&1\\
+98 Irishman 2
+&1\\
+77 Hackers 2
+&1\\
+339 Spiderverse 3
+&65 Gravity\\
+6
+&77 Hackers\\
+5 1
+&339 Spiderverse\\
+65
+&98 Irishman\\
+5 4
+&1\\
+65
+&1\\
+77
+&2\\
+339
+&3\\
+98
+&4\\
+5 4
+&4\\
+98
+&3\\
+339
+&2\\
+77
+&1\\
+65
+&4\\
+5 4
+&2\\
+98
+&3\\
+77
+&1\\
+339\\
+65\\
+0\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{17.in}
+&
+\textbf{17.out}\\
+3 4
+&1\\
+65 Gravity 1
+&1\\
+98 Irishman 2
+&1\\
+77 Hackers 2
+&1\\
+339 Spiderverse 3
+&65 Gravity\\
+6
+&77 Hackers\\
+7
+&339 Spiderverse\\
+5 1
+&98 Irishman\\
+98
+&4\\
+4 1
+&4\\
+98
+&1\\
+7
+&3\\
+5 1
+&3\\
+339
+&1\\
+4 1
+&2\\
+339
+&2\\
+7
+&1\\
+5 1
+&1\\
+77
+&1\\
+4 1
+&1\\
+77
+&0\\
+7\\
+5 1\\
+65\\
+4 1\\
+65\\
+7\\
+6\\
+0\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{18.in}
+&
+\textbf{18.out}\\
+3 20
+&1\\
+135 Titanic 1
+&1\\
+55 Aladdin 1
+&1\\
+689 Avatar 1
+&1\\
+86 Matrix 1
+&1\\
+65 Gravity 1
+&1\\
+98 Irishman 1
+&1\\
+77 Hackers 1
+&1\\
+339 Spiderverse 1
+&1\\
+243 REC 1
+&1\\
+76 Clue 1
+&1\\
+356 Godfather 1
+&1\\
+45 Drive 1
+&1\\
+61 Shame 1
+&1\\
+399 Millennium 1
+&1\\
+294 Parasite 1
+&1\\
+412 Inception 1
+&1\\
+259 Midsommar 1
+&1\\
+331 Tangled 1
+&1\\
+289 Persona 1
+&1\\
+380 Suspiria 1
+&380 Suspiria\\
+6
+&289 Persona\\
+5 7
+&331 Tangled\\
+356
+&259 Midsommar\\
+45
+&412 Inception\\
+98
+&294 Parasite\\
+86
+&399 Millennium\\
+412
+&61 Shame\\
+689
+&45 Drive\\
+135
+&356 Godfather\\
+0
+&76 Clue\\
+&243 REC\\
+&339 Spiderverse\\
+&77 Hackers\\
+&98 Irishman\\
+&65 Gravity\\
+&86 Matrix\\
+&689 Avatar\\
+&55 Aladdin\\
+&135 Titanic\\
+&10\\
+&9\\
+&15\\
+&17\\
+&5\\
+&18\\
+&20\\
+\\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+\textbf{19.in}
+&
+\textbf{19.out}\\
+3.341 4.765
+&1\\
+135.4654 Titanic 1.12
+&1\\
+55.51 Aladdin 1.9
+&1\\
+689.653 Avatar 1.543
+&1\\
+86.52 Matrix 1.54
+&86 Matrix\\
+6.54
+&689 Avatar\\
+5.423 2.234
+&55 Aladdin\\
+689.54
+&135 Titanic\\
+13.4523
+&2\\
+4.54 1.542
+&-32000\\
+86.2
+&1\\
+7.8
+&3\\
+6.43
+&689 Avatar\\
+0.9
+&55 Aladdin\\
+&135 Titanic\\
+\\
+\end{tabular}
+

@@ -1,0 +1,1 @@
+diff -s --color <(cat ./test-cases/TESTCASE.out) <(./lista < test-cases/TESTCASE.in)
